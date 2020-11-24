@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Diary App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build with ReactJS & firebase.
 
 ## Available Scripts
 
