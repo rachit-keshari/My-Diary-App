@@ -1,6 +1,20 @@
 # My Diary App 
 
-This project was build with ReactJS & firebase.
+Built a diary app in React, react-redux, used firebase as backend.
+
+![ss-0](https://github.com/rachit-keshari/My-Diary-App/blob/main/ScreenShot/ss-0.JPG)
+![ss-1](https://github.com/rachit-keshari/My-Diary-App/blob/main/ScreenShot/ss-1.JPG)
+![ss-2](https://github.com/rachit-keshari/My-Diary-App/blob/main/ScreenShot/ss-2.JPG)
+
+### Enviroment Settings
+
+### Optional
+
+- Install [VS Code](https://code.visualstudio.com/) and follow extensions: 
+
+## Firebase Steup
+
+- For Firebase setup you need follow this [instructions](https://firebase.google.com/docs/android/setup)
 
 ## Available Scripts
 
